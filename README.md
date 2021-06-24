@@ -50,7 +50,7 @@
 <li>1982
 <ul>
 <li>Paul Benioff further develops his original model of a quantum mechanical Turing machine.</li>
-<li><a title="William Wootters" href="https://en.wikipedia.org/wiki/William_Wootters">William Wootters</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Wojciech Zurek" href="https://en.wikipedia.org/wiki/Wojciech_Zurek">Wojciech Zurek</a>,&nbsp;and independently&nbsp;<a title="Dennis Dieks" href="https://en.wikipedia.org/wiki/Dennis_Dieks">Dennis Dieks</a><sup id="cite_ref-12" class="reference"><a href="https://en.wikipedia.org/wiki/Timeline_of_quantum_computing#cite_note-12">[12]</a></sup>&nbsp;rediscover the&nbsp;<a title="No-cloning theorem" href="https://en.wikipedia.org/wiki/No-cloning_theorem">no-cloning theorem</a>.</li>
+<li><a title="William Wootters" href="https://en.wikipedia.org/wiki/William_Wootters">William Wootters</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Wojciech Zurek" href="https://en.wikipedia.org/wiki/Wojciech_Zurek">Wojciech Zurek</a>,&nbsp;and independently&nbsp;<a title="Dennis Dieks" href="https://en.wikipedia.org/wiki/Dennis_Dieks">Dennis Dieks</a>&nbsp;rediscover the&nbsp;<a title="No-cloning theorem" href="https://en.wikipedia.org/wiki/No-cloning_theorem">no-cloning theorem</a>.</li>
 </ul>
 </li>
 <li>1984
